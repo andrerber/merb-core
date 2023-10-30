@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Disable Tab Limit - Disables the default tab limit (varies giữa devices)
