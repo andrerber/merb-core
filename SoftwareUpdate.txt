@@ -1,1 +1,1 @@
-Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
+Add https://youtu.be/3VryynorQeo to README and fix converter.py Docs (#7883)
